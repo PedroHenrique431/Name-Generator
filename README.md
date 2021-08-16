@@ -33,6 +33,6 @@ Um gerador de nomes simples e intuitivo.
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sobe a licença [MIT](./LICENSE).
 
 Feito por Pedro Henrique - 2021 [Entre em contato!](https://www.linkedin.com/in/pedro-henrique-88a810186/)
