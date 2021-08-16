@@ -1,29 +1,24 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/README-ecoleta?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
-
-  
-  
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/README-ecoleta">
-  </a>
-    
+      
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
     
-  
- 
 </p>
 
-### Name Generator
+# Name Generator
 
 Um gerador de nomes simples e intuitivo.
 
 <h1 align="center"> 
-	🚧   Em construção...  🚧
+	
+
+    <🚧   Em construção...  🚧>
+<img src="./assets/cap1.png" alt="dmc_1" height="425">
+<img src="./assets/cap3.png" alt="dmc_3" height="425">
+<img src="./assets/cap2.png" alt="dmc_2" height="425">
+</🚧>
 </h1>
 
-### Features
+## 🛠 Features
 
 - [x] Lista Infinita de nomes;
 - [x] Menu de favoritos;
