@@ -14,7 +14,8 @@
   
  
 </p>
-# Name Generator
+
+### Name Generator
 
 Um gerador de nomes simples e intuitivo.
 
