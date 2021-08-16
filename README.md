@@ -11,7 +11,7 @@ Um gerador de nomes simples e intuitivo.
 <h1 align="center"> 
 	
 
-    <🚧   Em construção...  🚧>
+    🚧   Em construção...  🚧
 <img src="./assets/cap1.png" alt="dmc_1" height="425">
 <img src="./assets/cap3.png" alt="dmc_3" height="425">
 <img src="./assets/cap2.png" alt="dmc_2" height="425">
